@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  kubeflower:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-04-02T01:07:23.174266189+02:00"
+    description: Helm chart for KubeFlower - Federated Learning with Flower on Kubernetes
+    digest: 78046c4554cbccd7761705ea2226b03dacf9b0d2c5763caed3ef62aaaa040451
+    keywords:
+    - federated-learning
+    - flower
+    - kubernetes
+    - gnn
+    - machine-learning
+    maintainers:
+    - name: Group 3 Team
+    name: kubeflower
+    type: application
+    urls:
+    - https://djairoh.github.io/scacompcharts/charts/kubeflower-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-04-02T01:07:23.17332846+02:00"
