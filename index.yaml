@@ -42,5 +42,5 @@ entries:
     type: application
     urls:
     - charts/kubeflower-0.1.1.tgz
-    version: 0.1.0
+    version: 0.1.1
 generated: "2026-04-10T23:44:53.100258324+02:00"
