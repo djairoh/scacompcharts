@@ -3,7 +3,28 @@ entries:
   kubeflower:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-04-14T17:49:53.456801589+02:00"
+    created: "2026-04-14T18:32:24.894771813+02:00"
+    description: Helm chart for KubeFlower - Federated Learning with Flower on Kubernetes
+    digest: dde1faf67e0b74e7a2961834b315b850f7063ad8923238cb78b697beaf0e2586
+    home: https://github.com/adap/flower
+    keywords:
+    - federated-learning
+    - flower
+    - kubernetes
+    - gnn
+    - machine-learning
+    maintainers:
+    - name: Group 3 Team
+    name: kubeflower
+    sources:
+    - https://flower.ai/
+    type: application
+    urls:
+    - charts/kubeflower-0.2.3.tgz
+    version: 0.2.3
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-04-14T18:32:24.894052031+02:00"
     description: Helm chart for KubeFlower - Federated Learning with Flower on Kubernetes
     digest: 9c1835a36cf8b5f80e3d68589d3df88db752827920f3c22049d2bf86d41f54c1
     home: https://github.com/adap/flower
@@ -24,7 +45,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-04-14T17:49:53.456009104+02:00"
+    created: "2026-04-14T18:32:24.893333784+02:00"
     description: Helm chart for KubeFlower - Federated Learning with Flower on Kubernetes
     digest: 4d038c18b5313f189c230a37d07d71ffbf38d6d62f393d77540c2fd45360db02
     home: https://github.com/adap/flower
@@ -45,7 +66,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-04-14T17:49:53.455061573+02:00"
+    created: "2026-04-14T18:32:24.892423824+02:00"
     description: Helm chart for KubeFlower - Federated Learning with Flower on Kubernetes
     digest: 5b1b4d46881732537ccec3ed1448d1fcb8d2f3267d106d1d57bccc5d5aa43211
     home: https://github.com/adap/flower
@@ -66,7 +87,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-04-14T17:49:53.453996848+02:00"
+    created: "2026-04-14T18:32:24.891693216+02:00"
     description: Helm chart for KubeFlower - Federated Learning with Flower on Kubernetes
     digest: 77558713f72e7d9f0a600e76358b079c0c90b1504575b89b6ba71792eff8d981
     home: https://github.com/adap/flower
@@ -87,7 +108,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-04-14T17:49:53.45309639+02:00"
+    created: "2026-04-14T18:32:24.890977484+02:00"
     description: Helm chart for KubeFlower - Federated Learning with Flower on Kubernetes
     digest: 3b328bdb6d99ca76b3ecf7dd63d8659fe966342faed4ea6618ec981736180a8a
     home: https://github.com/adap/flower
@@ -108,7 +129,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-04-14T17:49:53.452157309+02:00"
+    created: "2026-04-14T18:32:24.890223968+02:00"
     description: Helm chart for KubeFlower - Federated Learning with Flower on Kubernetes
     digest: 77d8d7b60fa9132373207608e3d28c9d86abe76185de270d7da6876467de7215
     home: https://github.com/adap/flower
@@ -127,4 +148,4 @@ entries:
     urls:
     - charts/kubeflower-0.1.0.tgz
     version: 0.1.0
-generated: "2026-04-14T17:49:53.450059917+02:00"
+generated: "2026-04-14T18:32:24.889284186+02:00"
